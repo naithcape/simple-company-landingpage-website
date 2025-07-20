@@ -31,6 +31,24 @@ This portfolio website showcases Whrlbe's services and provides information abou
 3. **Services**: Showcase of web development, web design, and music services
 4. **Footer**: Contact information and social media links
 
+## Screenshots
+
+Here are some screenshots of the Whrlbe Portfolio Website:
+
+### Desktop (Dark Theme)
+![Desktop Dark Theme](screencapture-localhost-63342-portfolio-index-html-2025-07-20-19_09_03.png)
+
+### Mobile (Dark Theme)
+![Mobile Dark Theme](screencapture-localhost-63342-portfolio-index-html-2025-07-20-19_09_22.png)
+
+### Desktop (Light Theme)
+![Desktop Light Theme](screencapture-localhost-63342-portfolio-index-html-2025-07-20-19_09_36.png)
+
+### Mobile (Light Theme)
+![Mobile Light Theme](screencapture-localhost-63342-portfolio-index-html-2025-07-20-19_09_51.png)
+
+## Photos just show design not functionality, photos can be wrong !
+
 ## Installation and Usage
 
 1. Clone the repository:
